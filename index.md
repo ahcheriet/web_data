@@ -1,7 +1,9 @@
 ---
 ---
-#Abdelhakim Cheriet                               <img src="2856952.jpeg" width="100" height="100">
-  -------------------------------------------------------------- -- --
+
+#Abdelhakim Cheriet 
+
+  --------------------------------------------------------------
                                                                     
                                                                     
   Department of Computer Science and Information Technologies       
@@ -10,7 +12,7 @@
   Route de Ghardaia, BP.511, 30000, Ouargla, Algeria                
   Phone: $+$213 (662) 737 443                                       
   Email: abdelhakim.cheriet@univ-ouargla.dz                         
-   -------------------------------------------------------------- -- --
+   --------------------------------------------------------------
 
 Education
 ---------
