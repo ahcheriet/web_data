@@ -11,22 +11,20 @@
   Route de Ghardaia, BP.511, 30000, Ouargla, Algeria                
   Phone: $+$213 (662) 737 443                                       
   Email: abdelhakim.cheriet@univ-ouargla.dz                         
-  -------------------------------------------------------------- -- --
+   -------------------------------------------------------------- -- --
 
 Education
 ---------
 
   ----------- ----------------------------------------------------------------------------------
   
-  2008–2016   Doctor of Science, Computer Science, University of Biskra, Algeria
-              Thesis Title: Hybrid Meta-heuristics for Multi-objective optimization
-              Supervisors: Foudil Cherif.
-              
-  2004–2007   Magister, Computer Science, University of Biskra, Algeria
-              Thesis Title: Multi-objective optimization with hybrid (quantum) meta-heuristics
-              Supervisors: Mohamed Batouche.
-              
-  1999–2004   Engineer, Computer Science, University of Biskra, Algeria.
+*  2008–2016   Doctor of Science, Computer Science, University of Biskra, Algeria
+               **Thesis Title: Hybrid Meta-heuristics for Multi-objective optimization**
+               Supervisors: Foudil Cherif.              
+ * 2004–2007   Magister, Computer Science, University of Biskra, Algeria
+               **Thesis Title: Multi-objective optimization with hybrid (quantum) meta-heuristics**
+               Supervisors: Mohamed Batouche.          
+ * 1999–2004   Engineer, Computer Science, University of Biskra, Algeria.
   
   ----------- ----------------------------------------------------------------------------------
 
@@ -37,11 +35,9 @@ Positions {#appointments}
 
   ------------ -----------------------------------------------------------------------
   
-  2016–today:   Associate professor, Computer Science, University of Ouargla, Algeria
-  
-  2008–2016 :   Assistant professor, Computer Science, University of Biskra, Algeria
-  
-  2008–today:   Permanent researcher, LESIA Laboratory, University of Biskra, Algeria
+  * 2016–today:   Associate professor, Computer Science, University of Ouargla, Algeria  
+  * 2008–2016 :   Assistant professor, Computer Science, University of Biskra, Algeria
+  * 2008–today:   Permanent researcher, LESIA Laboratory, University of Biskra, Algeria
   
   ------------ -----------------------------------------------------------------------
 
@@ -49,9 +45,8 @@ Positions {#appointments}
 
   ------------ -----------------------------------------------------------------------------------------------------------------------------
   
-  2017–today:   Vice-Dean of graduate studies, Faculty of new technologies of information and communication, University of Ouargla, Algeria
-  
-  2014–2016 :   Vice-Head department for studies, Computer Science, University of Biskra, Algeria
+  * 2017–today:   Vice-Dean of graduate studies, Faculty of new technologies of information and communication, University of Ouargla, Algeria
+  * 2014–2016 :   Vice-Head department for studies, Computer Science, University of Biskra, Algeria
   
   ------------ -----------------------------------------------------------------------------------------------------------------------------
 
