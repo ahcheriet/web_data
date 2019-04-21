@@ -1,10 +1,12 @@
 ---
 ---
 
-#Abdelhakim Cheriet 
-  --------------------------------------------------------------
-                                                                    
-                                                                    
+Abdelhakim Cheriet 
+------------------
+
+  --------------------------------------------------------------                                                                    
+                                 
+                                 
   Department of Computer Science and Information Technologies       
   Faculty of New Technologies of Information and Communication      
   University Kasdi Merbah.                                          
