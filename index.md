@@ -1,8 +1,6 @@
 ---
 ---
-#Abdelhakim Cheriet
-![](2856952.jpeg=20x)
-<img src="https://github.com/ahcheriet/ahcheriet.github.io/blob/master/2856952.jpeg" width="100" height="100">
+#Abdelhakim Cheriet                               <img src="https://github.com/ahcheriet/ahcheriet.github.io/blob/master/2856952.jpeg" width="100" height="100">
   -------------------------------------------------------------- -- --
                                                                     
                                                                     
