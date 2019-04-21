@@ -4,16 +4,15 @@
 Abdelhakim Cheriet 
 ------------------
 
-  --------------------------------------------------------------                                                                    
-                                 
-                                 
+  ----------- ----------------------------------------------------------------------------------
+  
   Department of Computer Science and Information Technologies       
   Faculty of New Technologies of Information and Communication      
   University Kasdi Merbah.                                          
   Route de Ghardaia, BP.511, 30000, Ouargla, Algeria                
   Phone: $+$213 (662) 737 443                                       
   Email: abdelhakim.cheriet@univ-ouargla.dz                         
-   --------------------------------------------------------------
+  ----------- ----------------------------------------------------------------------------------
 
 Education
 ---------
