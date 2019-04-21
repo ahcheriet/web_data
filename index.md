@@ -54,29 +54,29 @@ Teaching
 --------
 
   ----------- ------------------------- -----------------------------------------------
-  2016-2019 :  Parallel Architecture     CS department, University of Ouargla, Algeria
-  2016-2019 :  Optimization techniques   CS department, University of Ouargla, Algeria
-  2016      :  Information theory        CS department, University of Ouargla, Algeria
-  2016      :  Object oriented Prog.     CS department, University of Ouargla, Algeria
-  2016      :  Multi-obj. optimization   CS department, University of Biskra, Algeria
-  2009      :  Knowledge engineering     CS department, University of Biskra, Algeria
-  2010-2012 :  S.I.A.D                   CS department, University of Biskra, Algeria
+  * 2016-2019 :  Parallel Architecture     CS department, University of Ouargla, Algeria
+  * 2016-2019 :  Optimization techniques   CS department, University of Ouargla, Algeria
+  * 2016      :  Information theory        CS department, University of Ouargla, Algeria
+  * 2016      :  Object oriented Prog.     CS department, University of Ouargla, Algeria
+  * 2016      :  Multi-obj. optimization   CS department, University of Biskra, Algeria
+  * 2009      :  Knowledge engineering     CS department, University of Biskra, Algeria
+  * 2010-2012 :  S.I.A.D                   CS department, University of Biskra, Algeria
   ----------- ------------------------- -----------------------------------------------
 
 Teaching Assistant
 ------------------
 
   ----------- -------------------- -----------------------------------------------
-  2008-2016  : Algorithmic          CS department, University of Biskra, Algeria.
-  2008-2016  : Operating System 1   CS department, University of Biskra, Algeria.
+  * 2008-2016  : Algorithmic          CS department, University of Biskra, Algeria.
+  * 2008-2016  : Operating System 1   CS department, University of Biskra, Algeria.
   ----------- -------------------- -----------------------------------------------
 
 Supervision
 -----------
 
   ------ -------------------------------- -----------------------
-  2019  : Sami Lemtennech, PhD Student     University of Ouargla
-  2019  : Moubaraka Allaoui, PhD Student   University of Ouargla
+  * 2019  : Sami Lemtennech, PhD Student     University of Ouargla
+  * 2019  : Moubaraka Allaoui, PhD Student   University of Ouargla
   ------ -------------------------------- -----------------------
 
 Theses and dissertations
