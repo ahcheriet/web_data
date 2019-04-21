@@ -1,6 +1,6 @@
 ---
 ---
-
+Abdelhakim Cheriet
   -------------------------------------------------------------- -- --
                                                                     
                                                                     
@@ -16,13 +16,17 @@ Education
 ---------
 
   ----------- ----------------------------------------------------------------------------------
+  
   2008–2016   Doctor of Science, Computer Science, University of Biskra, Algeria
               Thesis Title: Hybrid Meta-heuristics for Multi-objective optimization
-              Supervisors: Foudil Cherif
+              Supervisors: Foudil Cherif.
+              
   2004–2007   Magister, Computer Science, University of Biskra, Algeria
               Thesis Title: Multi-objective optimization with hybrid (quantum) meta-heuristics
-              Supervisors: Mohamed Batouche
-  1999–2004   Engineer, Computer Science, University of Biskra, Algeria
+              Supervisors: Mohamed Batouche.
+              
+  1999–2004   Engineer, Computer Science, University of Biskra, Algeria.
+  
   ----------- ----------------------------------------------------------------------------------
 
 Positions {#appointments}
@@ -31,45 +35,52 @@ Positions {#appointments}
 ### Academic
 
   ------------ -----------------------------------------------------------------------
-  2016–today   Associate professor, Computer Science, University of Ouargla, Algeria
-  2008–2016    Assistant professor, Computer Science, University of Biskra, Algeria
-  2008–today   Permanent researcher, LESIA Laboratory, University of Biskra, Algeria
+  
+  2016–today:   Associate professor, Computer Science, University of Ouargla, Algeria
+  
+  2008–2016 :   Assistant professor, Computer Science, University of Biskra, Algeria
+  
+  2008–today:   Permanent researcher, LESIA Laboratory, University of Biskra, Algeria
+  
   ------------ -----------------------------------------------------------------------
 
 ### Administrative experience
 
   ------------ -----------------------------------------------------------------------------------------------------------------------------
-  2017–today   Vice-Dean of graduate studies, Faculty of new technologies of information and communication, University of Ouargla, Algeria
-  2014–2016    Vice-Head department for studies, Computer Science, University of Biskra, Algeria
+  
+  2017–today:   Vice-Dean of graduate studies, Faculty of new technologies of information and communication, University of Ouargla, Algeria
+  
+  2014–2016 :   Vice-Head department for studies, Computer Science, University of Biskra, Algeria
+  
   ------------ -----------------------------------------------------------------------------------------------------------------------------
 
 Teaching
 --------
 
   ----------- ------------------------- -----------------------------------------------
-  2016-2019   Parallel Architecture     CS department, University of Ouargla, Algeria
-  2016-2019   Optimization techniques   CS department, University of Ouargla, Algeria
-  2016        Information theory        CS department, University of Ouargla, Algeria
-  2016        Object oriented Prog.     CS department, University of Ouargla, Algeria
-  2016        Multi-obj. optimization   CS department, University of Biskra, Algeria
-  2009        Knowledge engineering     CS department, University of Biskra, Algeria
-  2010-2012   S.I.A.D                   CS department, University of Biskra, Algeria
+  2016-2019 :  Parallel Architecture     CS department, University of Ouargla, Algeria
+  2016-2019 :  Optimization techniques   CS department, University of Ouargla, Algeria
+  2016      :  Information theory        CS department, University of Ouargla, Algeria
+  2016      :  Object oriented Prog.     CS department, University of Ouargla, Algeria
+  2016      :  Multi-obj. optimization   CS department, University of Biskra, Algeria
+  2009      :  Knowledge engineering     CS department, University of Biskra, Algeria
+  2010-2012 :  S.I.A.D                   CS department, University of Biskra, Algeria
   ----------- ------------------------- -----------------------------------------------
 
 Teaching Assistant
 ------------------
 
   ----------- -------------------- -----------------------------------------------
-  2008-2016   Algorithmic          CS department, University of Biskra, Algeria.
-  2008-2016   Operating System 1   CS department, University of Biskra, Algeria.
+  2008-2016  : Algorithmic          CS department, University of Biskra, Algeria.
+  2008-2016  : Operating System 1   CS department, University of Biskra, Algeria.
   ----------- -------------------- -----------------------------------------------
 
 Supervision
 -----------
 
   ------ -------------------------------- -----------------------
-  2019   Sami Lemtennech, PhD Student     University of Ouargla
-  2019   Moubaraka Allaoui, PhD Student   University of Ouargla
+  2019  : Sami Lemtennech, PhD Student     University of Ouargla
+  2019  : Moubaraka Allaoui, PhD Student   University of Ouargla
   ------ -------------------------------- -----------------------
 
 Theses and dissertations
